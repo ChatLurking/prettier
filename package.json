@@ -1,0 +1,12 @@
+{
+  "name": "@chatlurking/prettier",
+  "version": "0.0.1",
+  "description": "ChatLurking's preferred prettier config",
+  "main": "index.json",
+  "license": "MIT",
+  "author": "ChatLurking <anneglines@gmail.com>",
+  "repository": "https://github.com/ChatLurking/prettier.git",
+  "peerDependencies": {
+    "prettier": "2.x"
+  }
+}
